@@ -1,0 +1,10 @@
+[package]
+name = "MyRustApp"
+version = "0.1.0"
+authors = ["Deekshith Reddy"]
+edition = "2024"
+
+[dependencies]
+aes-gcm = "0.10.3"
+chacha20poly1305 = "0.10.1"
+rand = "0.8.5"

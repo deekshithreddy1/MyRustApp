@@ -1,0 +1,4 @@
+# Ignore the node_modules folder
+target/
+*.txt
+
