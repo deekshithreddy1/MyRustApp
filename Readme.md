@@ -40,8 +40,8 @@ This tool uses only the **Rust Standard Library** — no external dependencies r
 ### ✅ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/deekshithreddy1/encryption-tool.git
-cd encryption-tool
+git clone https://github.com/deekshithreddy1/MyRustApp.git
+cd MyRustApp
 
 cargo build --release
 
